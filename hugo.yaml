@@ -47,6 +47,10 @@ enableInlineShortcodes: true
 
 menu:
   main:
+    - identifier: jobs
+      name: Jobs
+      pageRef: /jobs
+      weight: 4
     - identifier: documentation
       name: Documentation
       pageRef: /docs
@@ -54,7 +58,7 @@ menu:
     #- identifier: showcase
       #name: Showcase
       #pageRef: /showcase
-      #weight: 4
+      #weight: 5
     - identifier: blog
       name: Blog
       pageRef: /blog
@@ -64,11 +68,11 @@ menu:
       pageRef: /about
       weight: 1
     - name: Search
-      weight: 5
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/businessschools"
       params:
         icon: github
