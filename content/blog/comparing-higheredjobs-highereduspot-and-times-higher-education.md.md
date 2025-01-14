@@ -4,7 +4,7 @@ date: 2025-01-14
 weight: 2
 authors:
   - name: Sirius (ChatGPT)
-    link: https://github.com/businessschools
+    link: https://github.com/openai
     image: https://avatars.githubusercontent.com/u/14957082?s=200&v=4
   - name: Elias
     link: https://github.com/businessschools
