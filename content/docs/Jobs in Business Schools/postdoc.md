@@ -2,6 +2,8 @@
 linkTitle: Postdoc
 title: Postdoc
 description: BSJ currently lists available postdoc job opportunities.
+prev: /docs/jobs-in-business-schools/faculty/
+next: /docs/policies/
 ---
 
 > [!TIP]
