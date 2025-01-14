@@ -2,6 +2,8 @@
 title: Getting Started
 subtitle: Learn Business Schools Jobs
 weight: 2
+prev: /docs/
+next: /docs/jobs-in-business-schools/
 ---
 
 > [!TIP]

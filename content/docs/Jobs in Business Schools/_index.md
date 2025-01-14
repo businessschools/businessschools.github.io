@@ -3,6 +3,8 @@ linkTitle: Jobs in Business Schools
 title: Jobs in Business Schools
 weight: 3
 description: Comprehensive Listings for Academic, Administrative, and Executive Roles.
+prev: /docs/getting-started/
+next: /docs/jobs-in-business-schools/administrative/
 ---
 
 > [!TIP]

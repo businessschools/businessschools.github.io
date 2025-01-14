@@ -1,5 +1,5 @@
 ---
-linkTitle: "Jobs in Business Schools"
+linkTitle: "Introduction"
 title: Introduction
 weight: 1
 
