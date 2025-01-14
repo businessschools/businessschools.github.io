@@ -1,6 +1,7 @@
 ---
 title: Comparing HigherEdJobs, HigherEduSpot, and Times Higher Education
 date: 2025-01-14
+weight: 2
 authors:
   - name: Sirius (ChatGPT)
     link: https://github.com/businessschools
