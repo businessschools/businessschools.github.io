@@ -83,9 +83,9 @@ menu:
       params:
         type: separator
       weight: 1
-    - identifier: About
-      name: "About"
-      pageRef: "/about"
+    - identifier: Contact
+      name: "Contact"
+      pageRef: "/contact"
       weight: 2
     - identifier: HigherEduSpot
       name: "HigherEduSpot ↗"
