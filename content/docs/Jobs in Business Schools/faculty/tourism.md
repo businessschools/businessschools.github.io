@@ -1,6 +1,7 @@
 ---
 linkTitle: Tourism
 title: Tourism
+weight: 11
 description: BSJ currently lists available faculty job opportunities in tourism.
 ---
 

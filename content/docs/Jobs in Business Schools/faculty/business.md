@@ -1,6 +1,7 @@
 ---
 linkTitle: Business
 title: Business
+weight: 8
 description: BSJ currently lists available faculty job opportunities in business.
 ---
 

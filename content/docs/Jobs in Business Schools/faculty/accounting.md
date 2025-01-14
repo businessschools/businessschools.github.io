@@ -1,6 +1,7 @@
 ---
 linkTitle: Accounting
 title: Accounting
+weight: 7
 description: BSJ currently lists available faculty job opportunities in accounting.
 ---
 

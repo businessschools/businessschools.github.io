@@ -1,6 +1,7 @@
 ---
 linkTitle: Technology
 title: Technology
+weight: 10
 description: BSJ currently lists available faculty job opportunities in technology.
 ---
 

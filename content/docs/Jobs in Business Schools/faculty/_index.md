@@ -1,7 +1,10 @@
 ---
 linkTitle: Faculty
 title: Faculty
+weight: 6
 description: HigherEduSpot currently lists available faculty job opportunities.
+prev: /docs/jobs-in-business-schools/executive/
+next: /jobs-in-business-schools/postdoc/
 ---
 
 > [!TIP]

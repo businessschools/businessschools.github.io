@@ -1,7 +1,8 @@
 ---
 linkTitle: Policies
 title: Policies
-prev: /docs/guide/shortcodes/tabs
+weight: 13
+prev: /docs/jobs-in-business-schools/postdoc/
 next: /docs/advanced/multi-language
 ---
 

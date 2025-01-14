@@ -1,6 +1,9 @@
 ---
 linkTitle: "Jobs in Business Schools"
 title: Introduction
+weight: 1
+next: /docs/getting-started/
+
 ---
 
 Hello 👋

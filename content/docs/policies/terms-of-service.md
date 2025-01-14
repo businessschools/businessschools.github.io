@@ -1,6 +1,7 @@
 ---
 title: "Terms of Service"
 linkTitle: Terms of Service
+weight: 16
 ---
 
 **Effective From**: 9 Jan 2025

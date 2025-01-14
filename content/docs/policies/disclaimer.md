@@ -1,6 +1,7 @@
 ---
 title: "Disclaimer"
 linkTitle: Disclaimer
+weight: 14
 ---
 
 **Effective Date**: 9 Jan 2025
