@@ -1,6 +1,6 @@
 ---
-title: Markdown Syntax Guide
-date: 2020-01-01
+title: Comparing HigherEdJobs, HigherEduSpot, and Times Higher Education
+date: 2025-01-14
 authors:
   - name: Sirius (ChatGPT)
     link: https://github.com/businessschools
@@ -9,16 +9,9 @@ authors:
     link: https://github.com/businessschools
     image: https://github.com/octocat.png
 tags:
-  - Markdown
-  - Example
-  - Guide
-excludeSearch: true
----
-
----
-title: "Comparing HigherEdJobs, HigherEduSpot, and Times Higher Education"
-date: 2025-01-14
-draft: false
+  - HigherEdJobs
+  - HigherEduSpot
+  - Times Higher Education
 ---
 
 When it comes to finding academic jobs and resources, several platforms stand out. Among them, **HigherEdJobs**, **HigherEduSpot**, and **Times Higher Education** are popular choices. Each offers unique features tailored to academic professionals, but which one is right for you? Let’s compare these platforms to help you make an informed decision.
