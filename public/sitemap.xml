@@ -2,77 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/a/docs/getting-started/</loc>
-    <lastmod>2025-01-12T13:52:44+03:00</lastmod>
+    <loc>https://businessschools.github.io/blog/introducing-the-business-schools-jobs-platform/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/policies/privacy-policy/</loc>
+    <loc>https://businessschools.github.io/docs/</loc>
+    <lastmod>2025-01-14T12:36:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/tags/example/</loc>
-    <lastmod>2025-01-12T13:47:57+03:00</lastmod>
+    <loc>https://businessschools.github.io/blog/comparing-higheredjobs-highereduspot-and-times-higher-education.md/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/tags/guide/</loc>
-    <lastmod>2025-01-12T13:47:57+03:00</lastmod>
+    <loc>https://businessschools.github.io/docs/getting-started/</loc>
+    <lastmod>2025-01-14T12:36:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/tags/markdown/</loc>
-    <lastmod>2025-01-12T13:47:57+03:00</lastmod>
+    <loc>https://businessschools.github.io/jobs/</loc>
+    <lastmod>2025-01-14T12:50:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/blog/markdown/</loc>
-    <lastmod>2025-01-12T13:47:57+03:00</lastmod>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/administrative/</loc>
+    <lastmod>2025-01-14T12:45:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/tags/</loc>
-    <lastmod>2025-01-12T13:47:57+03:00</lastmod>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/executive/</loc>
+    <lastmod>2025-01-14T12:45:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/about/</loc>
-    <lastmod>2025-01-12T13:52:44+03:00</lastmod>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/faculty/</loc>
+    <lastmod>2025-01-14T12:50:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/faculty/accounting/</loc>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/faculty/accounting/</loc>
+    <lastmod>2025-01-14T12:45:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/administrative/</loc>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/faculty/business/</loc>
+    <lastmod>2025-01-14T12:45:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/bssense/advertising/</loc>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/faculty/economics/</loc>
+    <lastmod>2025-01-14T12:45:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/blog/</loc>
-    <lastmod>2025-01-12T13:47:57+03:00</lastmod>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/faculty/technology/</loc>
+    <lastmod>2025-01-14T12:45:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/bssense/</loc>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/faculty/tourism/</loc>
+    <lastmod>2025-01-14T12:45:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/faculty/business/</loc>
+    <loc>https://businessschools.github.io/jobs/jobs-in-business-schools/postdoc/</loc>
+    <lastmod>2025-01-14T12:40:06+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/</loc>
-    <lastmod>2025-01-12T19:04:53+03:00</lastmod>
+    <loc>https://businessschools.github.io/docs/policies/</loc>
+    <lastmod>2025-01-14T12:23:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/categories/</loc>
+    <loc>https://businessschools.github.io/docs/policies/disclaimer/</loc>
+    <lastmod>2025-01-14T12:23:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/contact/</loc>
+    <loc>https://businessschools.github.io/docs/policies/privacy-policy/</loc>
+    <lastmod>2025-01-14T12:23:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/policies/disclaimer/</loc>
+    <loc>https://businessschools.github.io/docs/policies/terms-of-service/</loc>
+    <lastmod>2025-01-14T12:23:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/faculty/economics/</loc>
+    <loc>https://businessschools.github.io/tags/business-schools-jobs-platform/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/executive/</loc>
+    <loc>https://businessschools.github.io/tags/business-schools-jobs-portal/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/faculty/</loc>
+    <loc>https://businessschools.github.io/tags/business-schools-jobs-website/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/</loc>
-    <lastmod>2025-01-12T13:52:44+03:00</lastmod>
+    <loc>https://businessschools.github.io/tags/higheredjobs/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/</loc>
+    <loc>https://businessschools.github.io/tags/highereduspot/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/policies/</loc>
+    <loc>https://businessschools.github.io/tags/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/postdoc/</loc>
+    <loc>https://businessschools.github.io/tags/times-higher-education/</loc>
+    <lastmod>2025-01-14T13:08:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/bssense/price-list/</loc>
+    <loc>https://businessschools.github.io/about/</loc>
+    <lastmod>2025-01-14T11:47:41+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/showcase/</loc>
-    <lastmod>2025-01-12T13:52:44+03:00</lastmod>
+    <loc>https://businessschools.github.io/docs/job-advertising/advertising/</loc>
+    <lastmod>2025-01-14T12:40:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/bssense/specifications/</loc>
+    <loc>https://businessschools.github.io/blog/</loc>
+    <lastmod>2025-01-14T11:32:37+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/faculty/technology/</loc>
+    <loc>https://businessschools.github.io/</loc>
+    <lastmod>2025-01-14T11:32:37+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a/docs/policies/terms-of-service/</loc>
+    <loc>https://businessschools.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/a/docs/jobs-in-business-schools/faculty/tourism/</loc>
+    <loc>https://businessschools.github.io/contact/</loc>
+    <lastmod>2025-01-14T11:32:37+03:00</lastmod>
+  </url><url>
+    <loc>https://businessschools.github.io/docs/job-advertising/</loc>
+    <lastmod>2025-01-14T12:40:58+03:00</lastmod>
+  </url><url>
+    <loc>https://businessschools.github.io/docs/job-advertising/price-list/</loc>
+    <lastmod>2025-01-14T12:40:58+03:00</lastmod>
+  </url><url>
+    <loc>https://businessschools.github.io/docs/job-advertising/specifications/</loc>
+    <lastmod>2025-01-14T12:40:58+03:00</lastmod>
   </url>
 </urlset>
