@@ -7,7 +7,7 @@ authors:
     image: https://avatars.githubusercontent.com/u/14957082?s=200&v=4
   - name: Elias
     link: https://github.com/businessschools
-    image: https://github.com/octocat.png
+    image: https://avatars.githubusercontent.com/u/192262128?v=4
 tags:
   - HigherEdJobs
   - HigherEduSpot
