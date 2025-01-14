@@ -24,7 +24,7 @@ Welcome to the Business Schools Jobs
 Dive right into the following section to get started:
 
 {{< cards >}}
-  {{< card link="getting-started" title="Getting Started" icon="document-text" subtitle="Learn how to create website using Hextra" >}}
+  {{< card link="getting-started" title="Getting Started" icon="document-text" subtitle="Learn how to start using Business Schools Jobs Website." >}}
 {{< /cards >}}
 
 Reference:
