@@ -19,7 +19,7 @@ Welcome to the Business Schools Jobs
 
 > [!TIP]
 > Business Schools Jobs is a startup..
-  Have a question or feedback? Feel free to [email us](mailto: support@businessschoolsjobs.eu.org).
+  Have a question or feedback? Feel free to [email us](mailto:support@businessschoolsjobs.eu.org)
 
 ## Next
 
