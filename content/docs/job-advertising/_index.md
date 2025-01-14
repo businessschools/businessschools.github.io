@@ -1,6 +1,6 @@
 ---
-linkTitle: bsSense
-title: bsSense
+linkTitle: Job Advertising
+title: Job Advertising
 description: HigherEduSpot currently lists available faculty job opportunities in biology
 ---
 
