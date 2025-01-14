@@ -1,0 +1,8 @@
+---
+linkTitle: Technology
+title: Technology
+description: BSJ currently lists available faculty job opportunities in technology.
+---
+
+> [!TIP]
+> For inquiries, feel free to [email us](mailto:support@businessschoolsjobs.eu.org)
