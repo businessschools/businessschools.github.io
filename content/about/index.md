@@ -3,9 +3,9 @@ title: About
 toc: false
 ---
 
-Whether you're an aspiring Assistant Professor, an experienced Associate Professor, a distinguished Professor, or a seasoned executive seeking your next challenge, our Business Schools Jobs Website is your gateway to success.
+Whether you're an aspiring Assistant Professor, an experienced Associate Professor, a distinguished Professor, or a executive seeking your next challenge, our Business Schools Jobs Website is your gateway to success.
 ## Why Business Schools Jobs?
-1. Comprehensive Listings for Academic and Executive Roles:
+1. Comprehensive Listings for Academic, Administrative, and Executive Roles:
   - Discover a wide array of career opportunities in fields such as management, marketing, accounting, strategy, operations, and entrepreneurship, all designed for professionals in the business school ecosystem.
   - From teaching and research positions to executive leadership roles, we cater to all career stages and aspirations.
 2. Exclusive Focus on Business Schools:

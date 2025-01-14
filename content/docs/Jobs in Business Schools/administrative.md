@@ -8,3 +8,5 @@ next: /docs/advanced/multi-language
 
 > [!TIP]
 > For inquiries, feel free to [email us](mailto:support@businessschoolsjobs.eu.org)
+
+BSJ currently lists available administrative job opportunities.

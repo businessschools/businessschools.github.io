@@ -1,7 +1,7 @@
 ---
 linkTitle: Jobs in Business Schools
 title: Jobs in Business Schools
-description: HigherEduSpot currently lists available faculty job opportunities in biology
+description: Comprehensive Listings for Academic, Administrative, and Executive Roles.
 ---
 
 > [!TIP]
