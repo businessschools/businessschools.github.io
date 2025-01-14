@@ -2,8 +2,6 @@
 linkTitle: Policies
 title: Policies
 weight: 13
-prev: /docs/jobs-in-business-schools/postdoc/
-next: /docs/policies/disclaimer
 ---
 
 "At Business Schools Jobs, we connect academics, researchers, and institutions worldwide. Whether you’re pursuing a faculty role, advancing your studies, or promoting your institution, we provide tools and resources tailored to your needs. Our mission is to bridge the gap between talent and opportunities, empowering business schools education and research globally."

@@ -3,8 +3,6 @@ linkTitle: Administrative
 title: Administrative
 weight: 4
 description: BSJ currently lists available administrative job opportunities.
-prev: /docs/guide/shortcodes/tabs
-next: /docs/advanced/multi-language
 ---
 
 > [!TIP]

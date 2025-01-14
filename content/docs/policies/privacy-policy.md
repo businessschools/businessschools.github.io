@@ -1,7 +1,6 @@
 ---
 title: "Privacy Policy"
 weight: 15
-prev: /docs/advanced
 ---
 
 **Effective Date**: 9 Jan 2025

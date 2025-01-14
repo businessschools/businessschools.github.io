@@ -2,8 +2,6 @@
 title: "Disclaimer"
 linkTitle: Disclaimer
 weight: 14
-prev: /docs/policies
-next: /docs/poliies/privacy-policy
 ---
 
 **Effective Date**: 9 Jan 2025
