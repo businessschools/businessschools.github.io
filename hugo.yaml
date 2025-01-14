@@ -89,11 +89,11 @@ menu:
       weight: 2
     - identifier: HigherEduSpot
       name: "HigherEduSpot ↗"
-      url: "https://www.highereduspot.com/highereduspot"
+      url: "https://www.highereduspot.com/"
       weight: 3
     - identifier: HigherEduProgram
       name: "HigherEduProgram ↗"
-      url: "https://www.highereduspot.com/highereduprogram"
+      url: "https://www.highereduspot.com/highereduprograms"
       weight: 4
 
 params:
