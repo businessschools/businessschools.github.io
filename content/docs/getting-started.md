@@ -25,13 +25,3 @@ Explore a wealth of information on HigherEduSpot through detailed tutorials, FAQ
 3. **Faculty Positions**: Explore teaching and research opportunities across various levels, including Assistant, Associate, and Full Professor roles in a wide range of academic fields.
 
 4. **Postdoctoral Opportunities**: Look into roles designed for early-career researchers to gain specialized experience, contribute to innovative projects, and enhance their academic profiles.
-
-## Next
-
-Explore the following sections to start adding more contents:
-
-{{< cards >}}
-  {{< card link="../guide/organize-files" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="../guide/configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="../guide/markdown" title="Markdown" icon="markdown" >}}
-{{< /cards >}}

@@ -8,9 +8,7 @@ prev: /docs/advanced
 
 Business Schools Jobs ("we," "our," or "us") values your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard information when you use our services.
 
----
-
-### 1. **Information We Collect**
+## 1. Information We Collect
 
 We may collect the following types of information:
 
@@ -18,9 +16,7 @@ We may collect the following types of information:
 - **Usage Data**: Information about your interactions with our website, such as pages visited and time spent.
 - **Cookies**: Data collected through cookies to enhance user experience.
 
----
-
-### 2. **How We Use Your Information**
+## 2. How We Use Your Information
 
 Your information may be used to:
 
@@ -28,24 +24,20 @@ Your information may be used to:
 - Communicate with you about updates, promotions, or inquiries.
 - Analyze usage trends to enhance website functionality.
 
----
-
-### 3. **Sharing Your Information**
+## 3. Sharing Your Information
 
 We do not sell or share your personal information with third parties, except:
 
 - When required by law or legal processes.
 - To trusted service providers assisting in website operations under strict confidentiality agreements.
 
----
-
-### 4. **Data Protection**
+## 4. Data Protection
 
 We employ appropriate technical and organizational measures to safeguard your information against unauthorized access, loss, or misuse.
 
 ---
 
-### 5. **Your Rights**
+## 5. Your Rights
 
 You have the right to:
 
@@ -55,19 +47,15 @@ You have the right to:
 
 ---
 
-### 6. **Cookies Policy**
+## 6. Cookies Policy
 
 We use cookies to improve user experience and analyze site performance. By using our site, you agree to the use of cookies. You can manage cookie settings in your browser.
 
----
-
-### 7. **Updates to This Policy**
+## 7. Updates to This Policy
 
 We may update this Privacy Policy to reflect changes in our practices. Updates will be posted on this page with the effective date.
 
----
-
-### 8. **Contact Us**
+## 8. Contact Us
 
 If you have questions or concerns about this Privacy Policy, contact us at:
 
