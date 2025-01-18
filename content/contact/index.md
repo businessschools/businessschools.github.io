@@ -16,3 +16,5 @@ For inquiries, please email us at:
 We strive to respond to all inquiries as quickly as possible.
 
 Thank you for visiting **Business Schools Jobs**.
+
+Your Business Schools Jobs Team
