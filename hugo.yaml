@@ -1,7 +1,7 @@
 # Hugo configuration file
-title: My Site
-
-theme: hextra
+baseURL: "https://businessschools.github.io"
+title: "My Site"
+theme: "hextra"
 
 markup:
   # allow raw html
