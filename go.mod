@@ -1,5 +1,5 @@
-module github.com/imfing/hextra-starter-template
+module github.com/businessschools/start
 
 go 1.21
 
-require github.com/imfing/hextra v0.9.7 // indirect
+require github.com/businessschools/theme v0.9.7 // indirect
